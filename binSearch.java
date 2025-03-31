@@ -27,6 +27,6 @@ public class binSearch {
                 end = mid - 1;
             }
         }
-    return -1;
+        return -1;
     }
 }
